@@ -1,4 +1,4 @@
-<h1>Underwater Object Classification Using Logistic Regression</h1>
+<h1>Loan Eligibility Prediction System</h1>
 
 
 <h2>Description</h2>
