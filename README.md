@@ -21,7 +21,7 @@ Handled missing values and outliers
 
 <h2>Skills </h2>
 
-- <b>Python (Pandas, Numpy, Scikit-learn, NLTK)</b>
+- <b>Python (Pandas, Numpy, Scikit-learn)</b>
 - <b>Data preprocessing and feature engineering</b>
 - <b>Classification algorithms (Logistic Regression, Support Vector Machine)</b>
 - <b>Model evaluation metrics </b>
