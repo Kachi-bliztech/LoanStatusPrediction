@@ -30,4 +30,4 @@ Handled missing values and outliers
 
 <h2>Outcomes </h2>
 
-- <b>A trained Logistic Regression model that enables real-time identification of underwater objects based on sonar data, thereby enhancing submarine navigation and safety by avoiding potential threats.</b>
+- <b>Successfully built a binary classification model that accurately identifies fake news articles based on their content. The solution lays the groundwork for a scalable fake news detection tool that can be integrated into news aggregation platforms or content moderation systems.</b>
